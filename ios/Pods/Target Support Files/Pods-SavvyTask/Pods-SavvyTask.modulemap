@@ -1,0 +1,6 @@
+module Pods_SavvyTask {
+  umbrella header "Pods-SavvyTask-umbrella.h"
+
+  export *
+  module * { export * }
+}

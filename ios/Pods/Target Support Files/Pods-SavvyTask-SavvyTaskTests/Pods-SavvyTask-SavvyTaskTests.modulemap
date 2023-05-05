@@ -1,0 +1,6 @@
+module Pods_SavvyTask_SavvyTaskTests {
+  umbrella header "Pods-SavvyTask-SavvyTaskTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
